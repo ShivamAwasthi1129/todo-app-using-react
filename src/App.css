@@ -26,7 +26,8 @@ h1 {
 
 .TodoWrapper {
   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-  background: #1A1A40;
+  /* background: #1A1A40; */
+  background: darkred;
   margin-top: 5rem;
   padding: 2rem;
   border-radius: 5px;
@@ -49,7 +50,7 @@ h1 {
 }
 
 .todo-input::placeholder {
-  color: #ffffff4d;
+  color: #ebe1e171;
 
 }
 
